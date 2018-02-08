@@ -6,5 +6,5 @@
 ### 使用
 
 + 安装 [kscript](https://github.com/holgerbrandl/kscript/)
-+ 生成静态html `kscript blog.kts -build`
++ 生成静态 html `kscript blog.kts -build`
 + 查看 `open blog/index.html`
