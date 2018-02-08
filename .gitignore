@@ -1,0 +1,5 @@
+deploy.sh
+blog/
+config.yaml
+.DS_Store
+
